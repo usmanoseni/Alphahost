@@ -61,7 +61,7 @@ The goal of the project is to simulate a professional hosting provider website t
 - Unicons (Icon library)  
 
 **Hosting/Deployment (Optional):**  
-- Netlify or GitHub Pages  
+- Netlify and GitHub Pages  
 
 ---
 
@@ -70,9 +70,9 @@ The goal of the project is to simulate a professional hosting provider website t
 **Structure:**  
 
 **Responsive Layout:**  
-- **Mobile (≤768px):** 1 column layout (hosting plans stacked)  
-- **Tablet (768–1024px):** 2 column layout  
-- **Desktop (>1024px):** 3 column layout  
+- **Mobile** 1 column layout (hosting plans stacked)  
+- **Tablet** 2 column layout  
+- **Desktop** 3 column layout  
 
 ---
 
